@@ -1,0 +1,8 @@
+streamlit
+openai
+pandas
+PyMuPDF
+langchain
+faiss-cpu
+tiktoken
+pdfminer.six
