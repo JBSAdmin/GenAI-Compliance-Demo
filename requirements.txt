@@ -1,0 +1,7 @@
+streamlit
+openai
+langchain
+unstructured
+pdfminer.six
+pandas
+faiss-cpu
